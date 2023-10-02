@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Pet XP Bar
+## Author: Refaim
+## Notes: Pet experience bar for the default Blizzard UI.
+## Version: 1.0
+
+PetXPBar.lua
